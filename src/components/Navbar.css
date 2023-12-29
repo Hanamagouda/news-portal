@@ -1,0 +1,16 @@
+
+
+.Navbar {
+    width: 100%;
+  }
+  
+  .Navbar-brand {
+    font-size: 24px;
+  }
+  
+  .Navbar-brand p {
+    font-size: 14px;
+    margin-top: 5px;
+    font-style: italic;
+  }
+  
